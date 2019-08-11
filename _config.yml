@@ -17,8 +17,8 @@ title: Locus Assignement - Paresh
 email: pareshmithra@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is an Jekyll assignmet given to Paresh Mithra by Locus Team.
-baseurl: "locus" # the subpath of your site, e.g. /blog
-url: "https://github.com/pareshmithra/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/locus" # the subpath of your site, e.g. /blog
+url: "https://pareshmithra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 linkedin-url: https://www.linkedin.com/company/locus-sh
 facebook-url:  https://www.facebook.com/locus.sh/
